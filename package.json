@@ -1,5 +1,5 @@
 {
-  "name": "react-native-idfa",
+  "name": "@cbcnewmedia/react-native-idfa",
   "version": "4.1.0",
   "description": "Android and iOS module for react-native to read IDFA (advertising identifier)",
   "main": "index.js",
@@ -54,5 +54,9 @@
   "bugs": {
     "url": "https://github.com/ptomasroos/react-native-idfa/issues"
   },
-  "homepage": "https://github.com/ptomasroos/react-native-idfa#readme"
+  "homepage": "https://github.com/ptomasroos/react-native-idfa#readme",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {}
 }
